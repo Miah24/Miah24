@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremiah Odoko
 - 👀 I’m interested in Web Programming (html, css, python, javascript) and Data Science.
 - 🌱 I’m currently learning Web Programming with html, css, python, javascript etc..
-- 💞️ I’m looking to collaborate on Web Programming, Web Applications and Data Science.
+- 💞️ I’m looking to collaborate on Web Programming and Building Applications.
 - 📫 How to reach me Jeremiahodoko24@gmail.com
 
 <!---
